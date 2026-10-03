@@ -1,9 +1,9 @@
 Homepage: **[idl.ist](https://idl.ist/)**
 
-Blog: **[blog.idl.ist](https://blog.idl.ist/)**
+Blog: **[idl.ist/notes](https://idl.ist/notes)**
 
-![my-lang](https://mystats.idl.ist/api/top-langs?username=idlist&count_private=true&layout=compact&langs_count=10&hide=cmake,mdx)
-![my-contrib](https://mystats.idl.ist/api?username=idlist&count_private=true&include_all_commits=true&number_format=long&hide_title=true&hide_rank=true) 
+![my-lang](https://mystats.idl.ist/api/top-langs?username=idlist&count_private=true&layout=compact&langs_count=8&hide=cmake,mdx)
+![my-contrib](https://mystats.idl.ist/api?username=idlist&count_private=true&number_format=long&hide_title=true&hide_rank=true) 
 
 <details>
   <summary>If you come from one of my repositories about Koishi.js...</summary>
